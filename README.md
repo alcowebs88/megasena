@@ -1,1 +1,1 @@
-![SitemaLoteria][imgs/sis.png]
+![SitemaLoteria](imgs/sis.png)
