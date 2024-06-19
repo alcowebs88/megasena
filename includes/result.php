@@ -37,7 +37,7 @@
 
 <p class="h3">
 	<strong>
-		Desenas sorteadas:
+		Dezenas sorteadas:
 	</strong>
 </p>
 
