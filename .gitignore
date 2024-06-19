@@ -1,0 +1,53 @@
+# Arquivos e diretórios do Composer
+/vendor/
+/composer.lock
+
+# Logs e arquivos temporários
+/logs
+/tmp
+*.log
+
+# Arquivos de configuração locais
+.env
+.env.local
+.phpunit.result.cache
+
+# Cache
+/cache/
+*.cache
+
+# IDEs e editores
+.idea/
+.vscode/
+nbproject/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+/build/
+
+# Arquivos de cobertura de teste
+coverage/
+*.coveralls.yml
+
+# Pastas de upload
+/uploads/
+
+# Arquivos gerados por PHPUnit
+.phpunit.result.cache
+
+# Arquivos gerados por PHPStorm
+/.phpstorm.meta.php/
+
+# Outros arquivos e diretórios
+/node_modules/
+bower_components/
+
+# Arquivos de depuração
+*.log
+*.sql
+*.sqlite
